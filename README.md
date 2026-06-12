@@ -16,7 +16,6 @@
 
 ## 개발 환경
 Python 3.10
-Google Colab
 
 ## 사용 라이브러리
 OpenCV
