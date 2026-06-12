@@ -1,6 +1,6 @@
 # Visioineers
 
-# AI1 - 공간 분석 및 시안 생성
+# AI - 공간 분석 및 시안 생성
 
 ## 담당 업무
 - Semantic Segmentation
